@@ -1,0 +1,29 @@
+.background-manipulation
+{
+	background-color: #00ff43;
+	color: white;
+	height: 100vh;
+	font-family: monospace;
+	display: flex;
+	flex-direction: column;
+	justify-items: center;
+	align-items: center;
+
+}
+.site-header-content{
+	margin: 10px;
+}
+
+body{
+	margin: 0pt;
+}
+
+.image-sizing
+{
+	height: 200px;
+
+width:200px;
+border-radius: 50vh;
+margin-top: 50px;
+box-shadow: #03290d 2px 5px 5px
+}
